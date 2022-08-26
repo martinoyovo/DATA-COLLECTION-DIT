@@ -2,11 +2,6 @@ import requests
 import random
 from ..question5.currency_scrapper import CurrencyScrapper
 
-import sys
-sys.path
-sys.path.append('/Users/alwaysgoodapps/Documents/DATA-COLLECTION-DIT/COURSE/DEVOIR/question5/currency_scrapper.py')
-print(sys.path)
-
 URL = 'https://restcountries.com/v2/all'
 
 

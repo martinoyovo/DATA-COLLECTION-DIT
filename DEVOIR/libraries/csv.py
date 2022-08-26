@@ -2,7 +2,7 @@ from .utils import Utils
 import pandas as pd
 
 
-BASE_URL = 'DATABASES/data-_zJ9Zko2Dh1LYlNNgALKE.csv'
+BASE_URL = 'DATABASES\data-_zJ9Zko2Dh1LYlNNgALKE.csv'
 
 
 class CsvFactory(object):
