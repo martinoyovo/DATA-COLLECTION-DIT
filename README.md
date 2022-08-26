@@ -5,7 +5,7 @@
 ### Cloner le projet
 
 ```
-git clone https://github.com/martinoyovo/messenger-app.git
+git clone https://github.com/martinoyovo/DATA-COLLECTION-DIT.git
 ```
 
 ## Comment démarrez les projets?
