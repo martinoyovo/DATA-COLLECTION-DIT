@@ -2,7 +2,7 @@ import json
 from .utils import Utils
 
 
-BASE_URL = 'DATABASES/data-zIybdmYZoV4QSwgZkFqvC.json'
+BASE_URL = 'DATA-COLLECTION-DIT/DATABASES/data-zIybdmYZoV4QSwgZkFqvC.json'
 
 
 class JsonFactory(object):

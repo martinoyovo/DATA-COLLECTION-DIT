@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup 
 
 
-BASE_URL = 'DATABASES\data-zIybdmYZoV4QSwgZkFtaB.html'
+BASE_URL = 'DATA-COLLECTION-DIT/DATABASES/data-zIybdmYZoV4QSwgZkFtaB.html'
 
 
 class HtmlFactory(object):
