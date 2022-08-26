@@ -1,11 +1,11 @@
 # DEVOIR - DATA COLLECTION DIT
 
-# Par YOVO KOSSI MARTINO
+## Par YOVO KOSSI MARTINO
 
 ### Cloner le projet
 
 ```
-git clone https://github.com/martinoyovo/messenger-app.git
+git clone https://github.com/martinoyovo/DATA-COLLECTION-DIT.git
 ```
 
 ## Comment démarrez les projets?
@@ -101,6 +101,6 @@ Ca y est le serveur est en marche:
 
 Pour obtenir la liste des données, exécuter cette adresse URL dans votre navigateur : [http://localhost:8000/liste_devises](http://localhost:8000/devises/)
 
-![Screen Shot 2022-08-26 at 15.15.36.png](DEVOIR%20-%20DATA%20COLLECTION%20DIT%20287b06c475e243afbba2b2f74ce4c458/Screen_Shot_2022-08-26_at_15.15.36.png)
+![Screen Shot 2022-08-26 at 15.15.36.png](https://github.com/martinoyovo/DATA-COLLECTION-DIT/blob/master/Screen%20Shot%202022-08-26%20at%2015.15.36.png)
 
 Pour accéder à la documentation de l’API, exécuter cette adresse URL dans votre navigateur : [http://localhost:8000/docs/](http://localhost:8000/devises/)
